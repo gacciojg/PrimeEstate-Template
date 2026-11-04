@@ -9,7 +9,7 @@ A modern, elegant and responsive website designed for real estate businesses.
 
 <br>
 
-<img src="Imagenes/1.png" width="90%" alt="PrimeEstate Preview">
+<img src="Imagenes/1.jpg" width="90%" alt="PrimeEstate Preview">
 
 <br><br>
 
