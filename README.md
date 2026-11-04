@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# PRIMEESTATE
+# RealEstate
 
 ### REAL ESTATE WEBSITE TEMPLATE
 
